@@ -48,4 +48,4 @@ rubyCopy code
 
 # JsonEncoder
 
-This file contains a custom JSON encoder class `JsonEncoder` that extends `JSONEncoder` from the `json` module. This class is used to handle encoding of date objects in a specific way, allowing them to be serialized to JSON forma
+This file contains a custom JSON encoder class `JsonEncoder` that extends `JSONEncoder` from the `json` module. This class is used to handle encoding of date objects in a specific way, allowing them to be serialized to JSON format.
